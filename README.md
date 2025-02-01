@@ -56,3 +56,11 @@ Let’s connect and build something amazing! 🚀
 Some parts of this README.md was [netinovem's](https://github.com/netinovem) idea.
 
 <br><br><br>
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/5PuzQzuPOhBiVpr3SQKlX5">
+    <img src="[https://pl.scdn.co/images/pl/default/6bc03b8b7b2d3b75b4e0d6980aa28f0e5ff2b20e](https://open.spotify.com/playlist/5PuzQzuPOhBiVpr3SQKlX5?si=qNe9IzMbSciOJZNYOB3rPg)" width="400">
+  </a>
+  
+  [![Listen on Spotify](https://img.shields.io/badge/SPOTIFY-PLAY-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5PuzQzuPOhBiVpr3SQKlX5)
+</div>
