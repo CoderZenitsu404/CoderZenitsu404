@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=32CD32&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Parsa...;nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2500&pause=500&color=A187F7&background=9822FF00&center=true&vCenter=true&width=435&lines=Hey+There!;This+is+Parsa...;Nice+to+meet+you+%F0%9F%98%81" alt="Typing SVG" /></a>
 </h1>
 
 I am a passionate student exploring the art of coding, driven by a love for building innovative and practical solutions. My current skill set includes Python programming, C++ development, and crafting beautiful, responsive web designs with CSS.
