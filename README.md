@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2500&pause=500&color=A187F7&background=9822FF00&center=true&vCenter=true&width=435&lines=Hey+There!;This+is+Parsa...;Nice+to+meet+you+%F0%9F%98%81" alt="Typing SVG" /></a>
+<img alt="GIF" src="https://github.com/CoderZenitsu404/CoderZenitsu404/blob/main/images/Readme%20Header%20720x151.gif" width="1080px"/>
 </h1>
 
 I am a passionate student exploring the art of coding, driven by a love for building innovative and practical solutions. My current skill set includes Python programming, C++ development, and crafting beautiful, responsive web designs with CSS.
@@ -17,14 +17,14 @@ Let’s connect and build something amazing! 🚀
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **nothing right now** 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/coderzenitsu404?tab=repositories)
 - 🌍 &nbsp;  I'm based in Tehran, Iran.
 - 🧠  &nbsp; I'm learning JS.
 - 🤝 &nbsp; I'm open to collaborating on interesting projects.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/parsa-akbari-970ba6349/)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📚 &nbsp; When I am free, I play games and read IT related books.
 - ⚡ &nbsp; I'm secretly Batman... but don't tell anyone.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/coderzenitsu404?tab=repositories)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/parsa-akbari-970ba6349/)
 
 
 
@@ -54,3 +54,5 @@ Let’s connect and build something amazing! 🚀
 
 ### Bruh
 Some parts of this README.md was [netinovem's](https://github.com/netinovem) idea.
+
+<br><br><br>
