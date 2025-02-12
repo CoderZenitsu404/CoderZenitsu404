@@ -53,7 +53,7 @@ Let’s connect and build something amazing! 🚀
 
 
 ### Bruh
-Some parts of this README.md was [netinovem's](https://github.com/netinovem) idea.
+Some parts of this README.md was [netinova's](https://github.com/netinova) idea.
 
 <br><br><br>
 
